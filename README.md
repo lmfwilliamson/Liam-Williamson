@@ -7,8 +7,10 @@
 * Used mode replacement or n/a replacement to account for missing values within categorical features where applicable.
 * Applied K Nearest Neighbours (KNN) regression to substitute missing values in numerical features.
 * Completed feature transformation using techniques such as cosine transformation and one-hot encoding.
-* Applied log transformation on the target variable to achieve normal distribution which was initially right skewed. 
+* Applied log transformation on the target variable to achieve normal distribution which was initially right skewed. (See below image)
 * Selected xgboost regressor as the technique of choice to achieve a score of 0.14705. 
+
+![](https://github.com/lmfwilliamson/Project-Portfolio/blob/main/images/Distribution%20Transformation.png)
 
 # Project 2: Business Case: Using Applied Analytics to Implement Client Segmentation Criteria for a Top 100 Global Law Firm:
 * Combined Finance Data, Pitch Data, Marketing Data and CRM data to establish evidenced-based criteria as to which priority tier a client should be allocated to. 

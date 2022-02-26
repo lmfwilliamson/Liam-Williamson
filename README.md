@@ -1,6 +1,6 @@
 # [Project 1: Data Science Challenge: Advanced Regression Techniques to Predict House Prices](https://www.kaggle.com/lmfwilliamson/house-price-regression-project)
 
-![](/images/House%20Banner.png)
+![](/images/House%20Banner.PNG)
 
 * Entered the Kaggle challenge to create a model that accurately predicts house prices via advanced regression techniques
 * Carried out initial Data Exploration and Data Cleansing to identify missing values
@@ -10,11 +10,11 @@
 * Applied log transformation on the target variable to achieve normal distribution which was initially right skewed. (See below image)
 * Selected xgboost regressor as the technique of choice to achieve a score of 0.14705
 
-![](/images/Distribution%20Transformation.png)
+![](/images/Distribution%20Transformation.PNG)
 
 # Project 2: Business Case: Using Applied Analytics to Implement Client Segmentation Criteria for a Top 100 Global Law Firm:
 
-![](/images/Business%20Decision%20Making.jpg)
+![](/images/Business%20Decision%20Making.JPG)
 
 * Combined Finance Data, Pitch Data, Marketing Data and CRM data to establish evidenced-based criteria as to which priority tier a client should be allocated to
 * Carried out all BA duties such as Stakeholder Analysis, ASIS-TOBE Analysis, Scope Statement Specification, Test Cases, Change Management, etc

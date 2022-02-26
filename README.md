@@ -1,6 +1,6 @@
 # [Project 1: Data Science Challenge: Advanced Regression Techniques to Predict House Prices](https://www.kaggle.com/lmfwilliamson/house-price-regression-project)
 
-![](/images/House%20Banner.png)
+![](/images/House%20Banner.jpg)
 
 * Entered the Kaggle challenge to create a model that accurately predicts house prices via advanced regression techniques
 * Carried out initial Data Exploration and Data Cleansing to identify missing values

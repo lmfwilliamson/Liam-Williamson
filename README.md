@@ -10,7 +10,7 @@
 * Applied log transformation on the target variable to achieve normal distribution which was initially right skewed. (See below image)
 * Selected xgboost regressor as the technique of choice to achieve a score of 0.14705
 
-![](/images/Distribution%20Transformation.png)
+![](/images/Distribution%20Transformation.jpg)
 
 # Project 2: Business Case: Using Applied Analytics to Implement Client Segmentation Criteria for a Top 100 Global Law Firm:
 

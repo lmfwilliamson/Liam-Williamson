@@ -12,7 +12,7 @@
 
 ![](images/Distribution%20Transformation.jpg)
 
-# [Project 2: Business Case: Using Applied Analytics to Implement Client Segmentation Criteria for a Top 100 Global Law Firm:](https://github.com/lmfwilliamson/Liam-Williamson/blob/main/Requirement%20Gathering.docx)
+# [Project 2: Business Case: Using Applied Analytics to Implement Client Segmentation Criteria for a Top 100 Global Law Firm:](https://github.com/lmfwilliamson/Liam-Williamson/blob/main/images/Business%20Requirements%20Document.pdf)
 
 ![](images/Business%20Decision%20Making.jpg)
 

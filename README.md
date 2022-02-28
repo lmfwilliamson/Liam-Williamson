@@ -1,4 +1,4 @@
-# [Project 1: Data Science Challenge: Advanced Regression Techniques to Predict House Prices](https://www.kaggle.com/lmfwilliamson/house-price-regression-project)
+# [Project 1: Data Science Challenge: Advanced Regression Techniques to Predict House Prices](https://github.com/lmfwilliamson/Liam-Williamson/blob/main/house-price-regression-project%20(1).ipynb)
 
 ![](images/House%20Banner.jpg)
 
